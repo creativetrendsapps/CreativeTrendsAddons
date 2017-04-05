@@ -2,7 +2,7 @@
 Source code of the Creative Trends Addons app. 
 
 # PLEASE READ:
-# Do not use this source code if you do not plan to give credit to the creator of this source code. Please read, follow and understand the GPL v3 license before cloning, forking or downloading this source code.
+Do not use this source code if you do not plan to give credit to the creator of this source code. Please read, follow and understand the GPL v3 license before cloning, forking or downloading this source code. There are strings that aren't included within this app that must be added by you to build this source code.
 
 # Screenshots:
 <img src="https://lh3.googleusercontent.com/J5WtHM1rGFXPNvGg2y4z4Z_HIFrcWq4h2nyFwTzQwVxDpN0fuaxB8luMjlaXjP-zcHY=h900-rw" width="22%" height=""> <img src="https://lh3.googleusercontent.com/fNNQh84G_kBUbY8MhOU7y1DZyVTrQDMDPTDdo5lE2L6em1HblV2BtMAYjsa9eAdOITg=h900-rw" width="22%" height=""> <img src="https://lh3.googleusercontent.com/-lHcjf52fZcLMN-Ufmt6LwQXfZVe_WJS85MTaYA4MvURUg2FeFoWSiWD8D-hLCHRU8c=w300-rw" width="22%" height="">
