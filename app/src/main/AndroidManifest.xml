@@ -1,0 +1,31 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.creativetrends.addons">
+
+    <application
+        android:name="com.creativetrends.addons.activities.CreativeTrends"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:replace="android:allowBackup,android:theme,android:label"
+        tools:ignore="GoogleAppIndexingWarning">
+
+    <activity
+        android:name="com.creativetrends.addons.activities.MainActivity"
+        android:configChanges="locale|orientation|screenSize"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:launchMode="singleTask">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+
+    </application>
+
+</manifest>

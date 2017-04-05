@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Creative Trends Addons</string>
+    <string name="thank_you">Thank you for installing our add-ons app. Tap the button below to hide this app from your app drawer.</string>
+    <string name="hide_text">Hide App</string>
+    <string name="launch_simplicity">Launch Simplicity</string>
+    <string name="launch_simple_pro">Launch Simple Pro</string>
+    <string name="launch_simple">Launch Simple</string>
+    <string name="about">About</string>
+    <string name="about_app">About This App</string>
+    <string name="ok">OK</string>
+
+    <string name="about_new" translatable="false"><![CDATA[
+    <small>This app is only designed to enable add-ons for select Creative Trends apps. This app must remain installed for add-ons to work.</small>
+    <br>
+    <br>
+    <small><b>License</b></small>
+    <br>
+    <br>
+    <small><b>Copyright 2017 Jorell Rutledge</b></small>
+    <br>
+    <br>
+    <small>This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+	<br><br>
+   	This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+	<br><br>
+	You should have received a copy of the GNU General Public License
+    along with this program.  If not, see www.gnu.org/licenses/
+    <br><br></small>
+    ]]></string>
+    <string name="creative_trends">Creative Trends</string>
+    <string name="not_available">App not installed, launching Play Store.</string>
+    <string name="somethings_wrong">Not Licensed</string>
+    <string name="somethings_wrong_message">This app is not licensed and will not function. Please consider downloading this app from Google Play.</string>
+</resources>
