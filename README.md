@@ -3,7 +3,7 @@ Source code of the Creative Trends Addons app.
 
 
 
-#License
+# License
 
     Copyright 2017 Jorell Rutledge
     
