@@ -37,4 +37,7 @@
     <string name="not_available">App not installed, launching Play Store.</string>
     <string name="somethings_wrong">Not Licensed</string>
     <string name="somethings_wrong_message">This app is not licensed and will not function. Please consider downloading this app from Google Play.</string>
+    <string name="simplicity_package">com.creativetrends.simplicity.app</string>
+    <string name="simple_package">com.creativetrends.simple.app</string>
+    <string name="simple_pro_package">com.creativetrends.simple.app.pro</string>
 </resources>
